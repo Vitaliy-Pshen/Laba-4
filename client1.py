@@ -34,9 +34,9 @@ BALL_Y_SPEED = INITIAL_SPEED
 PLAYER_1_SCORE = 0
 PLAYER_2_SCORE = 0
 
-left_comp_ip = "192.168.0.10"
-middle_comp_ip = "192.168.0.10"
-right_comp_ip = "192.168.0.10"
+left_comp_ip = "192.168.0.0"
+middle_comp_ip = "192.168.0.0"
+right_comp_ip = "192.168.0.0"
 
 SEND_IP_PORT1 = (left_comp_ip,10000)
 SEND_IP_PORT2 = (middle_comp_ip,10002)
